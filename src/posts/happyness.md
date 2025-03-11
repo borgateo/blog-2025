@@ -35,7 +35,7 @@ I've always loved computers and video games, so it was the obvious choice for me
 
 December 27, 2007, a freezing cold morning 🥶
 
-After defending my thesis, Prof. Sperduti bestowed upon me the title of “Doctor of Computer Science”. Cue the applause from my friends and family. However, things weren’t exactly as smooth as I anticipated.
+After defending my thesis, Prof. Sperduti bestowed upon me the title of “Doctor of Mathematics and Computer Science”. Cue the applause from my friends and family. However, things weren’t exactly as smooth as I anticipated.
 
 Finding a job wasn't difficult. A few weeks later, I landed a position as a junior dev at a B2PA consultancy company in Padua. The contract, though, was as a metalworker, reflecting how Italy was still struggling to recognize the value of IT professionals.
 
