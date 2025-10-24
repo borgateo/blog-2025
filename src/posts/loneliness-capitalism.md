@@ -45,23 +45,17 @@ Community for engagement.
 
 ## Units of emotional consumption
 
-We went from "social beings" to units of emotional consumption.
+We went from “social beings” to units of emotional consumption.
 
 More lonely, more fragile, more impulsive.
 
-Sadness today gets fixed with a trip to Amazon.
+Sadness today gets fixed with a trip to Amazon. Boredom gets managed with a reel. Anger with a comment.
 
-Boredom gets managed with a reel.
-
-Anger with a comment.
-
-Every emotion gets monetized, and every interaction feeds a machine that never rests.
-
-And the machine, ironically, is built by humans who are victims of it too.
+Every emotion gets monetized, and every interaction feeds a machine that never rests. And the machine, ironically, is built by humans who are victims of it too.
 
 ## The system's consistency
 
-Big tech companies aren't evil. They're just consistent.
+Big tech companies aren't evil. They're just _consistent_.
 
 They follow the rules we've all accepted: infinite growth, better quarters than the last, metrics going up.
 
