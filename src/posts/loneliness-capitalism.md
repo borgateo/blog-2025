@@ -23,7 +23,7 @@ They realized our attention, our time, our emotions could be converted into mone
 
 And from that moment on, the goal wasn't to connect people anymore. It was to keep them there.
 
-## The attention economy
+## **The attention economy**
 
 The attention economy isn't an abstract theory. It's the modern form of capitalism.
 
@@ -43,7 +43,7 @@ Relationships for connections.
 
 Community for engagement.
 
-## Units of emotional consumption
+## **Units of emotional consumption**
 
 We went from “social beings” to units of emotional consumption.
 
@@ -53,7 +53,7 @@ Sadness today gets fixed with a trip to Amazon. Boredom gets managed with a reel
 
 Every emotion gets monetized, and every interaction feeds a machine that never rests. And the machine, ironically, is built by humans who are victims of it too.
 
-## The system's consistency
+## **The system's consistency**
 
 Big tech companies aren't evil. They're just _consistent_.
 
@@ -63,15 +63,15 @@ Doesn't matter if it drains collective attention or burns out a generation's men
 
 Doesn't matter if it destroys trust between colleagues, between friends, between citizens.
 
-All that matters is the curve goes up.
+__All that matters is the curve goes up.__ 📈
 
-Meanwhile, we — the ants — look around and can't figure out who the enemy is anymore.
+Meanwhile, we — the ants — look around and can't figure out _who the enemy is anymore_.
 
 There's no “evil boss” or “ruling class”: there's a system that pits us against each other, competition everywhere, empathy dropping.
 
 We work, we consume, we scroll. And at the end of the day we feel empty, but also guilty for feeling that way.
 
-## The rebellion of connection
+## **The rebellion of connection**
 
 Yet in the midst of all this, one truth remains: __humans are social by nature__.
 
@@ -85,7 +85,7 @@ __Not out of niceness, but out of rebellion!__
 
 Because in a world that monetizes distance, every act of connection is a political act.
 
-## Conclusion
+## **Conclusion**
 
 We can't stop the system.
 
@@ -93,7 +93,7 @@ But we can defuse it, one human contact at a time.
 
 And maybe, in the end, that'll be the real “update” to consumerism: remembering to be human.
 
-## Books to read
+## **Books to read**
 
 - **Tim Wu — The Attention Merchants**
   - A history of how industries—from newspapers to Big Tech—turned human attention into the product, explaining why “engagement” eclipsed connection.
