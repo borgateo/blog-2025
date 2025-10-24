@@ -4,7 +4,7 @@ description: "Loneliness wasn't engineered—it's been monetized. How the attent
 date: 2025-10-24T10:00:00.000Z
 author: Matteo
 tags: featured
-cover: longarone.png
+cover: longarone-min.jpg
 coverTitle: Longarone - Italy (May 2025)
 language: en
 ---
