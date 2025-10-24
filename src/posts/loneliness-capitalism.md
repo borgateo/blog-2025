@@ -1,9 +1,11 @@
 ---
 title: "Loneliness and Capitalism"
-description: "I don't think the world was built to make us lonely. I think loneliness became such a profitable side effect that it's now built into the system itself."
+description: "Loneliness wasn't engineered—it's been monetized. How the attention economy turned isolation into profit, and why every human connection is now an act of rebellion."
 date: 2025-10-24T10:00:00.000Z
 author: Matteo
 tags: featured
+cover: longarone.png
+coverTitle: Longarone - Italy (May 2025)
 language: en
 ---
 
