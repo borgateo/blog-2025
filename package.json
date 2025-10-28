@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": ">=22.0.0 <23.0.0"
+  },
   "scripts": {
     "start": "npm-run-all --parallel css eleventy browsersync",
     "eleventy": "eleventy --watch",
