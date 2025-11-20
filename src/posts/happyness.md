@@ -13,195 +13,182 @@ tags:
   - improve yourself
 ---
 
-I spent a whopping 26 years of my life in Italy, living in a small town between Padua and Venice.
-It was all pretty average, the typical routine &mdash; going out with my girlfriend, playing football with my friends,
-practicing boxing, and eating pizza at the same places. 
+I spent 26 years in a small town between Padua and Venice. The routine was textbook: girlfriend, five-a-side football, boxing, same pizzerias, same jokes.
 
-No complaints. _I felt so damn lucky!_
+No complaints. _I felt lucky. Honestly._
 
 ## **Money 💶**
 
-I hopped on the work train pretty early, at the tender age of 15. I wanted to be indipendent.
+I jumped on the work train at 15. I wanted **independence**.
 
-Plus, let's face it, living in a provincial culture that thinks a uni degree is for losers doesn't really inspire one to pursue higher education.
+Also, growing up where a degree is seen as pointless, doesn’t exactly push you toward campus life.
 
-Working in factories and construction sites left a mark on me and gave me the kick in the ass I needed to hit the books.
-The thought of spending my entire life on an assembly line made me cringe! I thought, why not get myself a fancy degree?
-I've always loved computers and video games, so it was the obvious choice for me.
+Factories and construction sites left a mark. Great people, tough work. Enough to shove me back to the books. The idea of a lifetime on an assembly line? _Hard pass_. I loved computers and games. Obvious path.
 
 <div align="center">❉</div>
 
-**The day of my graduation arrived.**
+**December 27, 2007. Freezing.**
 
-December 27, 2007, a freezing cold morning 🥶
+I defend my thesis. Professor Sperduti declares me “Doctor of Mathematics and Computer Science.” Applause, hugs, the whole scene. Then...reality.
 
-After defending my thesis, Prof. Sperduti bestowed upon me the title of “Doctor of Mathematics and Computer Science”. Cue the applause from my friends and family. However, things weren’t exactly as smooth as I anticipated.
+Job hunting isn’t hard. A few weeks later I’m a junior dev at a B2PA consultancy in Padua. Contract? **Metalworker.** Because Italy still hadn’t figured out what a software developer is.
 
-Finding a job wasn't difficult. A few weeks later, I landed a position as a junior dev at a B2PA consultancy company in Padua. The contract, though, was as a metalworker, reflecting how Italy was still struggling to recognize the value of IT professionals.
+> **Permanent contract** with **3-year apprenticeship**. <br/>
+> **Salary:** €948 net/month.
 
-> Permanent contract with a 3-year apprenticeship. <br/>
-> Salary: €948 (after taxes) per month.
+They promise they’ll shorten the apprenticeship. _Maybe_.
 
-While signing, they promise that they will shorten the apprenticeship period. Maybe by a year.
-
-I knew I lacked experience, so I wasn't expecting bags of cash to rain down on me just yet. Besides, to comfort my fragile ego, none of my university buddies were making more than €1k a month. It was a real “[The 1000 Euros Generation]” movie moment!
+I knew I was green. I wasn’t expecting money showers. And hey, none of my uni friends were cracking €1k. Real **“[1000 Euros Generation]”** energy.
 
 ## **A Decent Paycheck Can Wait 💔**
 
-Two long years went by, and thanks to some seniority raises, my monthly income skyrocketed to the dazzling amount of €1,049! Oh, and that apprenticeship I was promised would end early? Yeah, that turned out to be a “maturating” apprenticeship instead. They said they couldn't afford to pay me a full salary, but they were happy to enjoy those sweet government incentives until the end of my training. It's a win-win... for them!
+Two years later, with “seniority,” I’m at **€1,049**. The “shortened” apprenticeship? Magically “maturing” till the end. They “can’t afford” a full salary but will gladly pocket incentives. **Win-win**—just not for me.
 
-That office started to feel like a straitjacket, and the projects? Yawn-inducing! 😴 It was time to break free and find something new and shiny.
+Work felt like a straitjacket. Projects? _Anaesthetic_. Time to bail.
 
-So, off I went on a wild job-hunting adventure! I had interviews left and right, but what I found was a measly raise of €100 - €150 per month. That isn't enough when thinking about switching jobs. 
+I interview everywhere. The offers? **+€100–€150/month**. Switching for crumbs? Meh.
 
-The only perk I've got is this sweet routine I've got going. My **work-life balance is as smooth as silk**, and the pressure at work is practically non-existent. Most people would be satisfied, but nah, I'm not one to settle for average. I'm young, and it's prime time to chase a better-paying job.
+The only perk: a **silky work-life balance** and **near-zero pressure**. Most people would be thrilled. _I’m not most people_. I’m young. I want more.
 
 <div align="center">❉</div>
 
-A whole year flew by, and I was still on the hunt for a bigger paycheck. Guess what? Zilch! Nada! 😩 I was swimming in responsibilities at my current job playing superhero as I assisted clients, managed help desks, and implemented entire projects. Don't get me wrong, I was pretty darn proud of myself. But deep down, I couldn't shake off the feeling that my salary was incredibly low, and my efforts were being underappreciated.
+Another year flies by. Still chasing a bigger paycheck. **Nothing.** Meanwhile I’m doing support, help desk, full implementations. I’m proud. Also **underpaid** and **invisible**.
 
-I was trapped. Trapped like a squirrel in a maze. But then, a little spark ignited within me, and it whispered: "Hey, have you ever considered looking beyond these borders?"
-The magical land of well-paid programmers! 🤑
+I’m a squirrel in a maze. Then a spark: _“What if I look outside Italy?”_
+
+The mythical land where devs get paid. 🤑
 
 ## **The Second Job 🥈**
 
-Enter Luca, a fellow compatriot who had set up a web agency in Lithuania. Our paths crossed, and we started collaborating in the moonlit hours. 🌙
+Enter Luca, a compatriot with a web agency in Lithuania. We collaborate nights and weekends.
 
-And boy, oh boy, the magic happened! I started getting inquiries from the Netherlands, India, Germany, and the UK! It hit me like a bolt of lightning.
+Suddenly I’m getting pings from the Netherlands, India, Germany, the UK. Lightning strike: **English pays**.
 
-My English skills were a bit embarrassing. I mean, I could barely string a coherent sentence together! 🙈 The grass was greener on the other side, and by greener, I mean they paid buckets of cash!
+Small issue: my English is **tragic**. I can barely stitch a sentence.
 
-I quickly realized that if I wanted to dive into this treasure trove of well-paying jobs, I needed to sharpen my English skills like a master swordsman!
+Solution: get good. **Fast**.
 
 ## **“Du iú spich inglisc?” 🥴**
 
-Unfortunately, I was at a slight disadvantage here. Despite spending an eternity studying English in school, I couldn't conjure up a single meaningful sentence. 😅
+Years of school and I can’t form a thought. _Classic._
 
-But fear not, my friend! I wasn't about to give up. I dusted off my old high school books and raided my girlfriend's collection of language textbooks from her university days. I even dug up my dad's ancient audio cassette course and played it on repeat in my garden shed, the designated temple of knowledge. And let's not forget my trusty sidekick, Google Translate! Oh, the hours we spent together, bonding over wonky translations and hilarious misunderstandings! 🥰
+I dust off high school books, raid my girlfriend’s uni materials, and find my dad’s cassette course. I loop it in the garden shed like a monk. My sidekick? **Google Translate**. We laughed, we cried, we invented new grammar.
 
 <figure>
   <img
   class="mb-0"
   src="/static/img/future-min.jpg"
   alt="Utrecht">
-  <figcaption class="mt-1 text-sm text-gray-400 italic">Graffiti in Naples: 'the future is unwritten' (July 2012)</figcaption>
+  <figcaption class="mt-1 text-sm text-gray-400 italic">Graffiti in Naples: “the future is unwritten” (July 2012)</figcaption>
 </figure>
 
 ## **Something Unexpected Happens ✨**
 
-Chatting with my buddy Stefano, I stumble upon a startup in Amsterdam, they need a front-end developer.
+Chatting with my friend Stefano. There’s a startup in Amsterdam looking for a front-end dev.
 
-He asks, "Wanna interview?" I'm like, "Hell yeah!"
+“Interview?” **“Hell yes.”**
 
-> It's June 2011. Front-end is just a newborn baby. We got jQuery, Mootools, and Handlebars libraries ruling the roost.
-> AJAX revolution is becoming real, and Backbone.js is flipping the script on client-side organization.
-> Everyone's babbling about MVC!
+> _June 2011._ Front-end is a toddler. **jQuery**, **Mootools**, **Handlebars**. **AJAX** is going mainstream. **Backbone.js** organizes the chaos. Everyone chants **“MVC.”**
 
 ![When we were young](https://pbs.twimg.com/media/FJ9ImmwXsAYygJU?format=png&name=900x900)
 
-I rocked CSS, nailed PHP, and kinda-sorta knew JavaScript, but boy, my English was still a hot mess.
+I’m solid with **CSS**, decent with **PHP**, semi-coherent with **JavaScript**. English? **Disaster**.
 
-That phone interview was an emotional rollercoaster! 😵
+Phone interview = emotional rollercoaster. My mom’s impressed (she doesn’t speak English), but even she doubts they’ll hire me.
 
-Later, my mom tells me she was flabbergasted by my English skills (she barely speaks it herself),
-but she never thought they'd hire me.
+A week of remote trials later, contract lands:
 
-But guess what? After a week of remote trials, they send me the contract:
+> **Fixed-term:** 1 year.<br/>**Salary:** €2,249 net/month.
 
-> Fixed-term contract: 1 year.<br/>Salary: €2249 (net) per month.
+My brain:
 
-And there I am, lost in thoughts:
+- **Dead-end job?** Who cares.
+- **International adventure?** Yes.
+- **English upgrade?** Finally.
+- **CV boost?** Needed.
+- **Money?** At last.
 
-- Who cares about a dead-end job like that? 😑
-- Time for an international adventure! 🇳🇱
-- Let's level up my English game! 🗣
-- Boost that resume and career, baby! 📈
-- Cha-ching! Finally, a decent salary! 💰
+**I quit on the spot.** Netherlands, _hier ik kom!_
 
-**I quit my job on the spot. Netherlands, Hier ik kom!**
+They cover a **one-way flight**, **two weeks at [Hotel Casa Amsterdam]**, and a **MacBook Pro**. Dreamy.
 
-The Dutch company covers my one-way flight, 2 weeks of fancy hotel stay ([Hotel Casa Amsterdam]), and hands me a shiny new MacBook Pro. It's a dream!
-
-I'd never set foot in the Netherlands before. On July 31, 2011, I landed there, ready to embark on a year-long adventure! 🤯
+I’d never been to the Netherlands. **July 31, 2011:** I land, ready for a year-long dive.
 
 <figure>
   <img
   class="mb-0"
   src="/static/img/utrecht-min.jpg"
   alt="Utrecht">
-  <figcaption class="mt-1 text-sm text-gray-400 italic">Utrecht - Netherlands (2012)</figcaption>
+  <figcaption class="mt-1 text-sm text-gray-400 italic">Utrecht — Netherlands (2012)</figcaption>
 </figure>
 
 <div align="center">❉</div>
 
-The thrill didn't last long. Those early months were a struggle. I barely understood a word and stumbled over my own thoughts. The culture and customs felt like a foreign planet. I was a fish out of water, a total doofus. Plus, I caught more colds than a sneezing champion! 🤧
+The honeymoon ends fast. The first months? **Brutal.** I barely understood anything. New culture, new habits, new colds. I was a fish on a bicycle.
 
 <div class="grid gap-7 lg:grid-flow-col grid-flow-row grid-col-2">
-  <img class="mx-auto my-0 py-0" src="/static/img/adam-min.jpg" title="Frozen Herengracht Canal, Amsterdam - Netherlands (2012)" />
-  <img class="mx-auto my-0 py-0" src="/static/img/via-min.jpg" title="First flat, Sint Nicolaasstraat - Netherlands (2012)" />
+  <img class="mx-auto my-0 py-0" src="/static/img/adam-min.jpg" title="Frozen Herengracht Canal, Amsterdam — Netherlands (2012)" />
+  <img class="mx-auto my-0 py-0" src="/static/img/via-min.jpg" title="First flat, Sint Nicolaasstraat — Netherlands (2012)" />
 </div>
 
-But hey, I didn't let it bring me down. In Amsterdam, English was the lingua franca. So, I decided to buckle up and finally conquer the language that haunted me for ages. I attended meetups, made new friends, took some courses, even joined Couch Surfing and hosted folks from Canada, the United States, Germany, Russia—you name it!
+But Amsterdam runs on **English**. So I committed. [Meetup], classes, friends, [Couch Surfing]. Canadians, Americans, Germans, Russians—everyone fluent but me. I figured fluency is contagious. Turns out, a bit.
 
-![Cultural evening - Netherlands (2012)](/static/img/groups-min.jpg)
+Plenty of awkward moments. **Progress anyway.**
 
-**Seems like everyone spoke fluent English except me**. I convinced myself that by mingling with these fabulous people, their language prowess would rub off on me. And guess what? It worked! I had my fair share of embarrassing moments, but progress came with time and a whole lot of patience.
+![Cultural evening — Netherlands (2012)](/static/img/groups-min.jpg)
 
 <div align="center">❉</div>
 
-I poured my heart into work. But life had different plans. The development team got downsized. Most of my fellow programmers were let go. *Start-up life*, you know.
+I worked hard. Then startup roulette: dev team **downsized**. Most programmers out.
 
-That was my first time getting the boot. Well, let's be honest, it was more like the company pushed me out to avoid paying severance. 
+My first time getting the boot. Well—nudged, so they wouldn’t pay severance.
 
-> Man, the world is full of wolves, ain't it? A valuable life lesson learned.
+> **The world has wolves.** Noted.
 
 ## **Panic Mode: Activated! 😱**
 
-After just 9 months, I found myself unemployed, far away from home, barely knowing a handful of people, and still not feeling super confident about my English skills.
+Nine months in: **unemployed**, far from home, with toddler-level English.
 
-I instinctively started browsing flights back to the homeland. But then, I had an epiphany — _I can do this!_
+I look up flights back. Then a switch flips: **I can do this.**
 
-Resumes flew out, I hit up meetups like [JavaScript](http://www.meetup.com/AmsterdamJS/), [Frontend Developers](http://www.meetup.com/Frontend-Developer-Meetup-Amsterdam/), [Hackers and Founders](http://hackersandfounders.nl/), [hackathon](http://startupweekend.org/), and whatnot. I was determined to turn the tide!
+CVs fly. I hit meetups—**JavaScript**, **Frontend Developers**, **Hackers & Founders**, **hackathons**. I shake hands, drink bad coffee, keep showing up.
 
-I meet awesome people, make killer connections, and let the Netherlands know that I exist and I'm rocking it in my craft.
+I make friends, build a network, and let the city know I exist.
 
-**Hey, Olanda, I'm here to stay!**
+**Hey Netherlands, I’m not leaving.**
 
-![Rockstart Accelerator - Olanda (2012)](/static/img/rockstart-min.jpg)
+![Rockstart Accelerator — Netherlands (2012)](/static/img/rockstart-min.jpg)
 
-Before my termination period even ends, a new opportunity knocks on my door. And it wasn't even that hard. _I feel unstoppable, baby!_
+Before my termination even ends, a **new offer** lands. Not even that hard. **Momentum regained.**
 
-The rest is history in the making...
-<!-- [Part Two &rarr;](/posts/happiness-part-two) -->
+The rest is **history in progress**.
+<!-- [Part Two →](/posts/happiness-part-two) -->
 
 ## **TL;DR ⚡️**
 
-Next time you feel like complaining about your job, think again!
-Italy is bursting with phenomenal developers.
+Before you complain about your job, **breathe**.
 
-> Why settle for less? Why stay in a country that fails to recognize the awesomeness of [IT]?
+Italy has **brilliant developers**.
 
-In Italy, programmers are often treated like the bottom of the barrel. Just grunt workers.
-But in reality, we are _artists_, _poets_, _creative geniuses_!
+> **Why stay where your work is undervalued?**
 
-If we toil away in uninspiring, soul-sucking environments, our spirits wither away. We lose our spark, passion, and curiosity.
-Sure, it can happen elsewhere too.
+In Italy, devs are often treated like **button-pushers**. In reality, we’re **builders**, **designers**, **problem poets**.
 
-But here's the thing, my friend. If you're not vibing with your current project, just grab your lock, stock, and laptop, and quickly find something that really gets you excited.
-That way, you won't end up stuck in a gig where you can't stand your boss, coworkers, or even your own existence, with no way out. Go for an atmosphere that's buzzing, electric, and full of life.
+Stale environments kill curiosity. It can happen anywhere—but you don’t have to stick around.
 
-**In our field, the world is our oyster, thanks to the wonders of the internet**. You don't have to jet off to Amsterdam, London, or Berlin to find your dream job.
-Just shoot off an email with your dazzling introduction and resume attached. Simple and doesn't cost a dime.
+If your project drains you, pack your laptop and **change rooms**. Find the buzz. Don’t wait to hate your boss, your coworkers, and yourself.
 
-So, if you, like the old me, are dissatisfied with your job, feeling undervalued and taken for granted, remember this: in Germany, Switzerland, the Netherlands, England, Scandinavia (and that's just scratching the surface), there are countless opportunities waiting to sweep you off your feet. Rediscover that giddy excitement and passion you had when you wrote your first “[Hello, World!]”
+The internet nuked borders. You don’t need Amsterdam or London to level up. Send a **sharp intro** and a **clean CV**. Costs nothing.
 
-But this time, my friend, it'll be you, grinning from ear to ear, proudly proclaiming: “Hello World!”
+If you feel **underpaid** and **overlooked**, remember: **Germany, Switzerland, the Netherlands, the UK, Scandinavia**—endless options. Reignite the spark you felt writing your first _“Hello, World!”_
+
+This time, you’ll mean it. **“[Hello, World!]”**
 
 ---
 
+[1000 Euros Generation]: https://www.imdb.com/title/tt1272014/
 [Hotel Casa Amsterdam]: https://hotelcasa.nl
-[IT]: http://en.wikipedia.org/wiki/Information_and_communications_technology
-[The 1000 Euros Generation]: https://www.imdb.com/title/tt1272014/
-[meetup]: http://www.meetup.com
-[Couch Surfing]: https://www.couchsurfing.com/
+[IT]: http://en.wikipedia.org/wiki/Information_and_communications_technology  
+[meetup]: http://www.meetup.com  
+[Couch Surfing]: https://www.couchsurfing.com/  
 [Hello, World!]: https://en.wikipedia.org/wiki/%22Hello,_World!%22_program

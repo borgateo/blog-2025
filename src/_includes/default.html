@@ -1,62 +1,98 @@
-<!DOCTYPE html>
-  {% if language %}
-    <html lang="{{language}}">
-  {% else %}
-    <html lang="en">
-  {% endif %}
-
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>
-      {{title}}
-    </title>
-
-    <meta name="title" content="{{title}}" />
-    <meta name="twitter:site" content="@borga_teo" />
-    <meta name="og:title" content="{{title}}" />
-    <meta name="twitter:title" content="{{title}}" />
-    
-    <meta property="twitter:card" content="summary_large_image" />
-    <meta name="twitter:creator" content="@borga_teo" />
-    <meta property="og:url" content="https://borgateo.com{{page.url}}" />
-    <meta property="twitter:url" content="https://borgateo.com{{page.url}}" />
-    <meta property="og:site_name" content="Matteo Borgato - borgateo" />
-
-    <meta property="og:image" content="https://borgateo.com/static/img/seo.png" />
-    <meta property="twitter:image" content="{{ shareImage }}" />
-
-    {% if description %}
-      <meta name="description" content="{{description}}"/>
-      <meta property="og:description" content="{{description}}"/>
-      <meta property="twitter:description" content="{{description}}"/>
-    {% endif %}
-
-    {% if tags %}
-      <meta name="keywords" content="{{tags}}">
+<!doctype html>
+{% if language %}
+<html lang="{{language}}">
     {% else %}
-      <meta name="keywords" content="blog, frontend, javascript, CSS, remote work, computer science, HTML, digital nomad">
-    {% endif %}
+    <html lang="en">
+        {% endif %}
 
-    <meta name="author" content="Matteo Borgato">
-    <meta name="robots" content="index, follow">
-    <meta name="revisit-after" content="30 days">
+        <head>
+            <meta charset="UTF-8" />
+            <meta http-equiv="x-ua-compatible" content="ie=edge" />
+            <meta
+                name="viewport"
+                content="width=device-width, initial-scale=1.0"
+            />
 
-    {% block head %}{% endblock %}
-    <link rel="stylesheet" type="text/css" href="/static/css/style.css"/>
-    {% if prism == true %}
-      <link rel="stylesheet" type="text/css" href="/static/css/prism-tomorrow.css">
-    {% endif %}
-    <link rel="stylesheet" href="https://use.typekit.net/gvf5gsl.css">
-  </head>
-  <body>
-    {{ content | safe }}
+            <title>{{title}}</title>
 
-    {% include "./partials/footer.html" %}
+            <meta name="title" content="{{title}}" />
+            <meta name="twitter:site" content="@borga_teo" />
+            <meta name="og:title" content="{{title}}" />
+            <meta name="twitter:title" content="{{title}}" />
 
-    <script defer src="/static/js/alpine.js"></script>
-    <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "7a5a5c75d95446f3a673d85b7793e3a8"}'></script>
-  </body>
+            <meta property="twitter:card" content="summary_large_image" />
+            <meta name="twitter:creator" content="@borga_teo" />
+            <meta
+                property="og:url"
+                content="https://borgateo.com{{page.url}}"
+            />
+            <meta
+                property="twitter:url"
+                content="https://borgateo.com{{page.url}}"
+            />
+            <meta property="og:site_name" content="Matteo Borgato - borgateo" />
+
+            <meta
+                property="og:image"
+                content="https://borgateo.com/static/img/seo.png"
+            />
+            <meta property="twitter:image" content="{{ shareImage }}" />
+
+            {% if description %}
+            <meta name="description" content="{{description}}" />
+            <meta property="og:description" content="{{description}}" />
+            <meta property="twitter:description" content="{{description}}" />
+            {% endif %} {% if tags %}
+            <meta name="keywords" content="{{tags}}" />
+            {% else %}
+            <meta
+                name="keywords"
+                content="blog, frontend, javascript, CSS, remote work, computer science, HTML, digital nomad"
+            />
+            {% endif %}
+
+            <meta name="author" content="Matteo Borgato" />
+            <meta name="robots" content="index, follow" />
+            <meta name="revisit-after" content="30 days" />
+
+            {% block head %}{% endblock %}
+            <link
+                rel="stylesheet"
+                type="text/css"
+                href="/static/css/style.css"
+            />
+            {% if prism == true %}
+            <link
+                rel="stylesheet"
+                type="text/css"
+                href="/static/css/prism-tomorrow.css"
+            />
+            {% endif %}
+            <link rel="stylesheet" href="https://use.typekit.net/gvf5gsl.css" />
+        </head>
+        <body>
+            <svg style="display: none">
+                <filter id="noise">
+                    <feTurbulence
+                        type="fractalNoise"
+                        baseFrequency="0.65"
+                        numOctaves="5"
+                        stitchTiles="stitch"
+                    />
+                    <feColorMatrix type="saturate" values="0" />
+                    <feComponentTransfer>
+                        <feFuncA type="discrete" tableValues="0 0 0 0 1" />
+                    </feComponentTransfer>
+                </filter>
+            </svg>
+            {{ content | safe }} {% include "./partials/footer.html" %}
+
+            <script defer src="/static/js/alpine.js"></script>
+            <script
+                defer
+                src="https://static.cloudflareinsights.com/beacon.min.js"
+                data-cf-beacon='{"token": "7a5a5c75d95446f3a673d85b7793e3a8"}'
+            ></script>
+        </body>
+    </html>
 </html>
