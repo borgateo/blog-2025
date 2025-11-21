@@ -63,3 +63,7 @@ ol > li {
 blockquote {
     @apply bg-gray-100 border border-gray-300 p-4 rounded-lg italic;
 }
+
+article img {
+    @apply grayscale hover:grayscale-0 transition-all duration-300;
+}
