@@ -16,7 +16,7 @@ tags:
 
 ## **The Pursuit of Happyness: Part II**
 
-It’s 2025. Eleven years later, after my first post on <a href="{{ '/posts/happyness/' | url }}">The Pursuit of Happyness</a>, I’m still at it… just with different tools and higher stakes.
+It’s 2025. Eleven years later, after my first thought on <a href="{{ '/posts/happyness/' | url }}">The Pursuit of Happyness</a>, I’m still at it… just with different tools and higher stakes.
 
 I’ve been fully remote, fully distributed since 2015. No office, no commute—just bandwidth and trust.
 
