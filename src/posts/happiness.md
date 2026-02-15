@@ -1,5 +1,5 @@
 ---
-title: The Pursuit of Happyness
+title: The Pursuit of Happiness
 description: Seeking the Audacious Harmony of Work, Life, Fulfillment, and Success
 author: Matteo
 date: 2014-11-1T15:13:13.021Z
@@ -9,7 +9,7 @@ language: en
 tags:
   - living abroad
   - working abroad
-  - happyness
+  - happiness
   - improve yourself
 ---
 
