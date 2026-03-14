@@ -5,7 +5,7 @@
 body {
     position: relative;
     background-color: #1f2430; /* Ayu Mirage background */
-    color: #cbccc6;            /* testo principale grigio chiaro caldo */
+    color: #cbccc6;            /* Light warm gray text */
 }
 
 body::before,
@@ -20,7 +20,7 @@ body::after {
     pointer-events: none;
 }
 
-/* se vuoi ancora il noise, ma molto leggero */
+/* Subtle noise texture overlay */
 body::before {
     opacity: 0.25;
     filter: url(#noise);
@@ -44,7 +44,7 @@ body pre[class*="language-"] {
     @apply bg-gray-900;
 }
 
-/* Link: giallo caldo Ayu Mirage */
+/* Ayu Mirage warm yellow links */
 a {
     @apply underline underline-offset-4 decoration-2;
     color: #ffcc66;
@@ -53,7 +53,7 @@ a:hover {
     color: #ffd48a;
 }
 
-/* Liste: uguali */
+/* List styles */
 ul > li {
     @apply list-disc pl-5;
 }
@@ -62,19 +62,19 @@ ol > li {
     @apply list-decimal pl-5;
 }
 
-/* Blockquote: Ayu Mirage elevated background */
+/* Blockquote with elevated background */
 blockquote {
     @apply border p-4 rounded-lg italic;
     background-color: #242936;
     border-color: #32394a;
 }
 
-/* Immagini: puoi tenere la stessa logica */
+/* Article images with grayscale effect */
 article img {
     @apply grayscale hover:grayscale-0 transition-all duration-300;
 }
 
-/* SVG icons: colore chiaro Ayu Mirage */
+/* SVG icons color */
 svg {
     fill: #cbccc6;
 }
