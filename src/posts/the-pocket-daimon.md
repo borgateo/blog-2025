@@ -2,9 +2,9 @@
 title: The Pocket Daimon
 description: What are we really doing when we open a chat with an AI? A reflection on summoning, dismissing, and learning to sit with doubt.
 author: Matteo
-date: 2025-03-14T10:00:00.000Z
+date: 2026-03-14T10:00:00.000Z
 cover: trees.jpg
-coverTitle: Casso, Italy (May 2026)
+coverTitle: Casso, Italy (May 2025)
 language: en
 tags:
   - AI
