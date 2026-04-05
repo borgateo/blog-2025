@@ -2,9 +2,9 @@
 title: The Pocket Daimon
 description: What are we really doing when we open a chat with an AI? A reflection on summoning, dismissing, and learning to sit with doubt.
 author: Matteo
-date: 2025-03-14T10:00:00.000Z
+date: 2026-03-14T10:00:00.000Z
 cover: trees.jpg
-coverTitle: Casso, Italy (May 2026)
+coverTitle: Casso, Italy (May 2025)
 language: en
 tags:
   - AI
@@ -80,3 +80,5 @@ Maybe it's: **how do I use you without hurting myself?**
 I summon something powerful every time I open that chat. It's worth treating it that way. Summoning with intention. Dismissing when I have what I need. And learning to sit with the doubts that don't require an immediate answer.
 
 Calm is not the reward that comes after understanding everything. It's the starting point from which real understanding becomes possible.
+
+<div align="center">✌🏼</div>
