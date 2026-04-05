@@ -3,7 +3,7 @@ title: Teaching your AI to remember
 description: The system I built with Obsidian to give AI a persistent memory across sessions.
 author: Matteo
 date: 2026-04-04T10:00:00.000Z
-cover: snow-trees.jpg
+cover: snow-trees.webp
 coverTitle: Cogne, Italy (January 2026)
 language: en
 tags:
