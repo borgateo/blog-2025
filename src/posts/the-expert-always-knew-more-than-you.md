@@ -65,15 +65,15 @@ The AI had helped me prepare a list of questions to ask each one: specific thing
 
 This is what struck me most about both situations. It's not that the professionals were incompetent exactly. The pool guy learned his method by doing it, not by studying chemistry. The electricians know standard procedures but aren't necessarily equipped for edge cases. 
 
-In markets where this kind of labor is cheap, there's little incentive to go deep on the theory. Most practitioners don't — they don't need to.
+**In markets where this kind of labor is cheap, there's little incentive to go deep on the theory. Most practitioners don't, they don't need to.**
 
 In theory, that should make things easier to verify. Shallow knowledge isn't hard to spot if you ask the right questions. But asking the right questions requires time and energy, and most of us don't have it. We hand over the problem and trust because we are so freaking busy with our lives.
 
-That's where exploitation happens — not because the professional knows so much more, but because the client never checks.
+**That's where exploitation happens, not because the professional knows so much more, but because the client never checks.**
 
 The ones who actually do know more play a different game: they position themselves against the mediocre majority, charge a premium, and let the comparison do the work. Sometimes that's earned. In my case, it wasn't. And the problem wasn't even unusual.
 
-What AI does is quickly close that gap. Not replace the professional (the electrician drove those rods, not me) but give you enough understanding to know what's actually wrong, what the right fix is, and whether the person in front of you is actually solving your problem.
+**What AI does is quickly close that gap. Not replace the professional (the electrician drove those rods, not me) but give you enough understanding to know what's actually wrong**, what the right fix is, and whether the person in front of you is actually solving your problem.
 
 <div align="center">❉</div>
 
