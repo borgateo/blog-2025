@@ -73,7 +73,7 @@ In theory, that should make things easier to verify. Shallow knowledge isn't har
 
 The ones who actually do know more play a different game: they position themselves against the mediocre majority, charge a premium, and let the comparison do the work. Sometimes that's earned. In my case, it wasn't. And the problem wasn't even unusual.
 
-**What AI does is quickly close that gap. Not replace the professional (the electrician drove those rods, not me) but give you enough understanding to know what's actually wrong**, what the right fix is, and whether the person in front of you is actually solving your problem.
+**What AI does is quickly close that gap. Not replace the professional** (the electrician drove those rods, not me) **but give you enough understanding to know what's actually wrong**, what the right fix is, and whether the person in front of you is actually solving your problem.
 
 <div align="center">❉</div>
 
