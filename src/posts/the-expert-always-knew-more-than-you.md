@@ -1,6 +1,6 @@
 ---
 title: The expert always knew more than you. Not anymore.
-description: How I used AI to fix two problems at home that the professionals couldn't explain — and what that says about expertise.
+description: How I used AI to fix two problems at home that the professionals couldn't explain, and what that says about expertise.
 author: Matteo
 date: 2026-04-11T10:00:00.000Z
 cover: gambiarra.webp
@@ -65,11 +65,13 @@ The AI had helped me prepare a list of questions to ask each one: specific thing
 
 This is what struck me most about both situations. It's not that the professionals were incompetent exactly. The pool guy learned his method by doing it, not by studying chemistry. The electricians know standard procedures but aren't necessarily equipped for edge cases. 
 
-**In markets where this kind of labor is cheap, there's not much economic pressure to go deep on the theory.**
+In markets where this kind of labor is cheap, there's little incentive to go deep on the theory. Most practitioners don't — they don't need to.
 
-**That creates a knowledge gap between the professional and the client. And when that gap is big enough, it gets exploited. Sometimes unintentionally, sometimes very much intentionally.** 
+In theory, that should make things easier to verify. Shallow knowledge isn't hard to spot if you ask the right questions. But asking the right questions requires time and energy, and most of us don't have it. We hand over the problem and trust because we are so freaking busy with our lives.
 
-Plus we make it easy for them: we're all so freaking busy with our lives that we just rely on their knowledge without questioning whether they actually know what they're doing — or whether it's just a very well-maintained Instagram account built on simple, uncomplicated jobs.
+That's where exploitation happens — not because the professional knows so much more, but because the client never checks.
+
+The ones who actually do know more play a different game: they position themselves against the mediocre majority, charge a premium, and let the comparison do the work. Sometimes that's earned. In my case, it wasn't. And the problem wasn't even unusual.
 
 What AI does is quickly close that gap. Not replace the professional (the electrician drove those rods, not me) but give you enough understanding to know what's actually wrong, what the right fix is, and whether the person in front of you is actually solving your problem.
 
