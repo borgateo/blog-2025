@@ -59,7 +59,7 @@ This one surprised me the most.
 
 Claude Code can run multiple agents simultaneously on independent tasks. While one agent is researching a library, another is reviewing recent changes, and a third is running through a checklist. They don't share state, so there's no interference. You get back three completed tasks in roughly the time it would take to finish one.
 
-I use this mostly for pre-PR reviews now: one agent checks code style and project conventions, another hunts for silent failures in error handling, a third checks test coverage. I dispatch all three at once, go make coffee, and come back to a full picture of what needs fixing before I push.
+I use this mostly for pre-PR reviews now: one agent checks code style and project conventions, another hunts for silent failures in error handling, a third checks test coverage. I dispatch all three at once, go make tea, and come back to a full picture of what needs fixing before I push.
 
 It's a meaningful shift in how you can think about working with AI. Less sequential, more like delegating to a small team.
 
@@ -85,3 +85,5 @@ This system stores personal workflow patterns, side project context, and things 
 4. If you use Claude Code, create `~/.claude/rules/` and add a `working-style.md` with your preferences.
 
 That's genuinely all you need to start. No automation, no plugins required. Just the habit of leaving something behind at the end of each session.
+
+<div align="center">✌🏼</div>
