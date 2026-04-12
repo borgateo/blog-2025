@@ -2,6 +2,24 @@
 @tailwind components;
 @tailwind utilities;
 
+/*
+  Fallback font calibration for freight-text-pro.
+  Georgia's metrics are adjusted to approximate freight-text-pro's proportions,
+  reducing layout shift (FOUT) while the Typekit stylesheet loads.
+
+  These values are approximate — tune size-adjust in DevTools:
+  temporarily set font-family to just "freight-text-pro-fallback" and compare
+  side-by-side with freight-text-pro until text blocks align.
+*/
+@font-face {
+  font-family: "freight-text-pro-fallback";
+  src: local("Georgia");
+  size-adjust: 97%;
+  ascent-override: 75%;
+  descent-override: 25%;
+  line-gap-override: 0%;
+}
+
 body {
     position: relative;
     background-color: #1f2430; /* Ayu Mirage background */

@@ -22,7 +22,7 @@ module.exports = {
       '7xl': '6rem',
     },
     fontFamily: {
-      'serif': ['freight-text-pro', 'ui-serif', 'Georgia']
+      'serif': ['freight-text-pro', 'freight-text-pro-fallback', 'ui-serif', 'Georgia']
     }
   },
   variants: {},
