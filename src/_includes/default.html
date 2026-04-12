@@ -57,6 +57,10 @@
             <meta name="robots" content="index, follow" />
             <meta name="revisit-after" content="30 days" />
 
+            <link rel="preconnect" href="https://use.typekit.net" crossorigin />
+            <link rel="preconnect" href="https://p.typekit.net" crossorigin />
+            <link rel="dns-prefetch" href="https://static.cloudflareinsights.com" />
+
             {% block head %}{% endblock %}
             <link
                 rel="stylesheet"
@@ -70,7 +74,15 @@
                 href="/static/css/prism-tomorrow.css"
             />
             {% endif %}
-            <link rel="stylesheet" href="https://use.typekit.net/gvf5gsl.css" />
+            <link
+                rel="stylesheet"
+                href="https://use.typekit.net/gvf5gsl.css"
+                media="print"
+                onload="this.media='all'"
+            />
+            <noscript>
+                <link rel="stylesheet" href="https://use.typekit.net/gvf5gsl.css" />
+            </noscript>
         </head>
         <body>
             <svg style="display: none">
