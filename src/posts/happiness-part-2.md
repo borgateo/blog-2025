@@ -24,11 +24,11 @@ The money got better. **Significantly better** than my London employee days. Tha
 
 ## **Days blur**
 
+The freedom is real: sofa, desk, train, phone, pick your spot. So is the blur.
+
 Personal life bleeds into work, work stains the evening. **Discipline becomes infrastructure.** When you’re tired, boundaries fall fast.
 
-I’ve loved computers since I was a kid. Now I can work from the sofa, desk, train, phone… pick your battlefield. You think I’ll stop doing what I love just because the battlefield moved home? _Please._
-
-Still, I saw **early signs of burnout**. A few tough moments at home. **Impostor syndrome** tapping me on the shoulder. I learned, sometimes the hard way, that **rest and boundaries aren’t optional**. They’re part of the job.
+I saw **early signs of burnout**. A few tough moments at home. <a href="https://en.wikipedia.org/wiki/Impostor_syndrome" target="_blank" rel="noopener noreferrer"><strong>Impostor syndrome</strong></a> tapping me on the shoulder. I learned, sometimes the hard way, that **rest and boundaries aren’t optional**. They’re part of the job.
 
 What I’ve really learned is **agency**. Hard to translate neatly into Italian, so that’s probably why it was so difficult to grasp it. My unconscious probably still thinks in Italian 🤌🏼
 
