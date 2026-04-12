@@ -2,7 +2,7 @@ const yaml = require("js-yaml");
 const { DateTime } = require("luxon");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const lazyImagesPlugin = require('eleventy-plugin-lazyimages');
-const htmlmin = require("html-minifier");
+const htmlmin = require("html-minifier-terser");
 
 module.exports = function (eleventyConfig) {
   // Disable automatic use of your .gitignore
@@ -49,15 +49,13 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/robots.txt");
 
   // Minify HTML
-  eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
-    // Eleventy 1.0+: use this.inputPath and this.outputPath instead
+  eleventyConfig.addTransform("htmlmin", async function (content, outputPath) {
     if (outputPath.endsWith(".html")) {
-      let minified = htmlmin.minify(content, {
+      return await htmlmin.minify(content, {
         useShortDoctype: true,
         removeComments: true,
         collapseWhitespace: true,
       });
-      return minified;
     }
 
     return content;
