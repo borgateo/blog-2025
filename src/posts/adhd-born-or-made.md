@@ -119,7 +119,7 @@ The evidence on general "attention training" doesn't support promising the same 
 
 The most cautious claim is this: we are not necessarily creating a generation of people with ADHD. We may, however, be building environments where attention gets interrupted often and holding the thread takes more effort.
 
-Screen time is one part of the question. The other part is which kind of attention we practice, every day.
+It’s not only about how much time we spend in front of screens, but about the kind of attention we train every day.
 
 ## What we know and what we don't know yet
 
