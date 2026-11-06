@@ -1,6 +1,6 @@
 ---
 title: "Loneliness and Capitalism"
-description: "Loneliness wasn't engineered—it's been monetized. How the attention economy turned isolation into profit, and why every human connection is now an act of rebellion."
+description: "Nobody designed loneliness. It turned out to be profitable, so it stayed. Some notes on the attention economy and why saying hi to a stranger still matters."
 date: 2025-10-24T10:00:00.000Z
 author: Matteo
 tags: featured
@@ -9,105 +9,75 @@ coverTitle: Longarone - Italy (May 2025)
 language: en
 ---
 
-I don't think the world was built to make us lonely.
+I don't think anyone built the world to make us lonely.
 
-I think loneliness became such a profitable side effect that it's now built into the system itself.
+What I think is that loneliness turned out to be a very profitable side effect, so nobody had a reason to fix it. Over time it got baked into the system.
 
-It wasn't a secret plan. It was an accident that got turned into a business model.
+No secret plan. Just an accident somebody found a way to bill for.
 
-When Facebook launched, it didn't want to destroy social life. Google didn't want to become a manipulative oracle. Twitter didn't want to polarize public discourse.
+Facebook didn't launch to wreck social life. Google didn't set out to become a manipulative oracle, and Twitter didn't plan to polarize public debate. They started as tools with fairly decent ideals: connect people, organize knowledge, give everyone a voice. Then they found _data_, and data paid better than any ideal.
 
-They were tools — born with ideals of connection, knowledge, voice. But along the way, they found something far more powerful than any vision: _data_.
+Our attention, our time and our moods could be turned into money with an efficiency no industry had seen before. From then on the goal stopped being 'connect people'. It became 'keep them here'.
 
-They realized our attention, our time, our emotions could be converted into money with an efficiency no other industry had ever known.
+## The attention economy
 
-And from that moment on, the goal wasn't to connect people anymore. It was to keep them there.
+This is what capitalism looks like now.
 
-## **The attention economy**
+The product is habit, and the factory is your phone. Every scroll, notification and ad is a small, carefully tuned attempt to grab one more second of your life.
 
-The attention economy isn't an abstract theory. It's the modern form of capitalism.
+Nobody is conspiring. Profit has its own inertia and it pushes in one direction. Somewhere along the way companies learned that isolated people are docile, anxious people buy more and bored people click.
 
-It doesn't produce goods, it produces addiction.
+So, bit by bit, **we swapped freedom for frenzy**. Relationships became connections. Community became engagement.
 
-It doesn't sell products, it sells habits.
+## Units of emotional consumption
 
-Every scroll, every notification, every ad is a carefully calculated attempt to capture one more second of your life.
+We stopped being 'social beings' and turned into units of emotional consumption. Lonelier, more fragile, more impulsive.
 
-And there's no conspiracy behind it: just the inertia of profit.
+Sad? Open Amazon. Bored? Watch a reel. Angry? Leave a comment.
 
-Companies discovered that isolation makes people docile, anxiety makes them consume, boredom makes them click.
+Every emotion has a price tag, and every interaction feeds a machine that never sleeps. The funny part (not really funny) is that the machine is built by people who are stuck in it too.
 
-And so, bit by bit, __we traded freedom for frenzy__.
+## The system is consistent
 
-Relationships for connections.
+Big tech plays by the rules we all signed up for: infinite growth, every quarter better than the last, metrics up and to the right. And it follows them with impressive _consistency_.
 
-Community for engagement.
+If that drains our collective attention, burns out a generation's mental health or wrecks trust between colleagues and friends, too bad.
 
-## **Units of emotional consumption**
+**What matters is the curve going up.** 📈
 
-We went from “social beings” to units of emotional consumption.
+Meanwhile we, the ants, look around and can't tell _who the enemy is anymore_. There's no evil boss to point at, no ruling class. There's a system that turns everyone into a competitor, and empathy keeps dropping.
 
-More lonely, more fragile, more impulsive.
+We work, we buy stuff, we scroll. At the end of the day we feel empty, and then guilty for feeling empty.
 
-Sadness today gets fixed with a trip to Amazon. Boredom gets managed with a reel. Anger with a comment.
+## Connection as rebellion
 
-Every emotion gets monetized, and every interaction feeds a machine that never rests. And the machine, ironically, is built by humans who are victims of it too.
+Still, humans are social animals. **We don't do well alone**, and no amount of marketing will change that.
 
-## **The system's consistency**
+The system keeps selling loneliness as freedom. I think freedom sits closer to the opposite: talking to people, listening, saying hi to someone who doesn't say hi back, being kind to someone stuck in their own bubble.
 
-Big tech companies aren't evil. They're just _consistent_.
+**Call it rebellion, if you like.** In a world that makes money out of distance, every bit of real contact is a political act.
 
-They follow the rules we've all accepted: infinite growth, better quarters than the last, metrics going up.
+## So what
 
-Doesn't matter if it drains collective attention or burns out a generation's mental health.
+I can't stop the system, and neither can you.
 
-Doesn't matter if it destroys trust between colleagues, between friends, between citizens.
+What we can do is make it a bit less efficient, one conversation at a time. Not much of a plan, but it's the one I've got.
 
-__All that matters is the curve goes up.__ 📈
+## Books to read
 
-Meanwhile, we — the ants — look around and can't figure out _who the enemy is anymore_.
+- **Tim Wu, _The Attention Merchants_**
+  - How newspapers, radio, TV and then Big Tech turned attention into the thing being sold. Good background on why 'engagement' beat connection.
 
-There's no “evil boss” or “ruling class”: there's a system that pits us against each other, competition everywhere, empathy dropping.
+- **Shoshana Zuboff, _The Age of Surveillance Capitalism_**
+  - How platforms turn our behavior and emotions into data, and data into predictions they can sell.
 
-We work, we consume, we scroll. And at the end of the day we feel empty, but also guilty for feeling that way.
+- **Zeynep Tufekci, _Twitter and Tear Gas_**
+  - How social platforms help protests grow fast and then leave them fragile. A close look at the mechanics behind polarization.
 
-## **The rebellion of connection**
+- **James Bridle, _New Dark Age_**
+  - Life inside opaque, metric-driven systems, and why more data doesn't bring more understanding.
 
-Yet in the midst of all this, one truth remains: __humans are social by nature__.
-
-Isolation isn't sustainable.
-
-No matter how much the system tries to sell us loneliness as freedom, real freedom is in reconnecting.
-
-Talking, listening, sharing. Saying hi to someone who doesn't say hi back. Being kind to someone trapped in their own bubble.
-
-__Not out of niceness, but out of rebellion!__
-
-Because in a world that monetizes distance, every act of connection is a political act.
-
-## **Conclusion**
-
-We can't stop the system.
-
-But we can defuse it, one human contact at a time.
-
-And maybe, in the end, that'll be the real “update” to consumerism: remembering to be human.
-
-## **Books to read**
-
-- **Tim Wu — The Attention Merchants**
-  - A history of how industries—from newspapers to Big Tech—turned human attention into the product, explaining why “engagement” eclipsed connection.
-
-- **Shoshana Zuboff — The Age of Surveillance Capitalism**
-  - How platforms converted our behaviors and emotions into data for profit, hardwiring addiction, prediction, and control into the business model.
-
-- **Zeynep Tufekci — Twitter and Tear Gas**
-  - How social platforms both empower and destabilize collective action, revealing the mechanics that polarize discourse and monetize emotion.
-
-- **James Bridle — New Dark Age**
-  - A portrait of life inside opaque, metric-driven systems, showing how optimization erodes trust and why re-centering human context is an act of resistance.
-
-- **Riccardo Luna — Qualcosa è andato storto**
-  - A sharp, Italy-focused critique of how digital innovation veered off course—diagnosing platform incentives, public-policy gaps, and how to steer tech back toward social value.
+- **Riccardo Luna, _Qualcosa è andato storto_**
+  - An Italian take on how digital innovation went off track, and what policy could do about it.
 
 <div align="center">✌🏼</div>
