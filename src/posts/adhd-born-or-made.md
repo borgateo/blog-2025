@@ -1,5 +1,5 @@
 ---
-title: Is ADHD something you're born with, or can you develop it?
+title: "ADHD: born or made?"
 description: Can the digital environment shape our attention? Here is what the studies actually say.
 author: Matteo
 date: 2026-11-06T12:00:00.000Z
