@@ -19,4 +19,4 @@ Candidates to evaluate as replacements:
 
 ## Tips
 
-- Use Smart Quotes / Curly Quotes: “...” -> “...”
+- Use Smart Quotes / Curly Quotes: "..." -> “...”
