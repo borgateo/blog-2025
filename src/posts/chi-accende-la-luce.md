@@ -9,7 +9,7 @@ language: it
 
 Negli ultimi mesi mi sono fatto con un LLM un sacco di strumenti: un price tracker, qualche dashboard che gira su un Raspberry Pi in casa. E adesso sto facendo un'app per fare i preventivi per gli elettricisti. Faccio lo sviluppatore di mestiere, quindi sapevo fare tutto questo anche prima. Solo che prima non avrei mai trovato il tempo, perché ogni progetto voleva dire settimane di serate. Adesso i tool personali li faccio in un pomeriggio.
 
-Qualche settimana fa un'app che uso tutti i giorni ha tolto da un giorno all'altro la funzione che mi serviva. Il mio primo pensiero è stato: vabbè, me la rifaccio io.
+Qualche settimana fa, un'app che uso tutti i giorni ha tolto una funzione che mi serviva. Il mio primo pensiero è stato: vabbè, me la rifaccio io.
 
 È una sensazione bellissima. È anche quella che mi ha fatto venire un dubbio.
 
