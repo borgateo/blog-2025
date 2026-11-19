@@ -1,0 +1,28 @@
+<script>
+  /* First-party page view counter. No cookies, no ID: see /privacy/ */
+  (function () {
+    if (location.hostname !== "borgateo.com") return;
+    if (navigator.doNotTrack === "1" || navigator.globalPrivacyControl) return;
+    function send() {
+      var back = 0, me = 0, now = Date.now(), maxAge = 395 * 864e5; /* 13 months */
+      try {
+        var s = window.localStorage;
+        if (/[?&]io(&|=|$)/.test(location.search)) {
+          s.setItem("bg_me", "1");
+          history.replaceState(null, "", location.pathname + location.hash);
+        }
+        me = s.getItem("bg_me") === "1" ? 1 : 0;
+        var seen = +s.getItem("bg_seen") || 0;
+        back = seen && now - seen < maxAge ? 1 : 0;
+        if (!back) s.setItem("bg_seen", String(now));
+      } catch (e) {}
+      var ref = "";
+      try { ref = document.referrer ? new URL(document.referrer).hostname : ""; } catch (e) {}
+      var url = "/p?p=" + encodeURIComponent(location.pathname) + "&r=" + encodeURIComponent(ref) + "&v=" + back + "&o=" + me;
+      if (!(navigator.sendBeacon && navigator.sendBeacon(url))) new Image().src = url;
+    }
+    var later = window.requestIdleCallback || function (f) { setTimeout(f, 1); };
+    if (document.readyState === "complete") later(send);
+    else addEventListener("load", function () { later(send); });
+  })();
+</script>

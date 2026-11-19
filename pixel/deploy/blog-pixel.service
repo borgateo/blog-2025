@@ -1,0 +1,60 @@
+[Unit]
+Description=borgateo.com page view pixel (stats on Tailscale only)
+After=network-online.target tailscaled.service
+Wants=network-online.target tailscaled.service
+RequiresMountsFor=/mnt/nas/services/blog-pixel/data
+
+[Service]
+Type=simple
+User=blog-pixel
+Group=blog-pixel
+WorkingDirectory=/opt/blog-pixel
+Environment=PIXEL_DATA_DIR=/mnt/nas/services/blog-pixel/data
+Environment=PIXEL_HOST=127.0.0.1
+Environment=PIXEL_PORT=5009
+Environment=STATS_HOST=100.79.128.60
+Environment=STATS_PORT=5010
+Environment=PYTHONUNBUFFERED=1
+Environment=PYTHONDONTWRITEBYTECODE=1
+ExecStart=/usr/bin/python3 -I /opt/blog-pixel/pixel.py serve
+Restart=always
+RestartSec=5
+
+# Isolation: dedicated user, no home, read-only system, only its data dir is writable.
+NoNewPrivileges=yes
+CapabilityBoundingSet=
+AmbientCapabilities=
+UMask=0077
+ProtectSystem=strict
+ProtectHome=yes
+ReadWritePaths=/mnt/nas/services/blog-pixel/data
+PrivateTmp=yes
+PrivateDevices=yes
+ProtectKernelTunables=yes
+ProtectKernelModules=yes
+ProtectKernelLogs=yes
+ProtectControlGroups=yes
+ProtectClock=yes
+ProtectHostname=yes
+ProtectProc=invisible
+ProcSubset=pid
+RestrictNamespaces=yes
+RestrictRealtime=yes
+RestrictSUIDSGID=yes
+LockPersonality=yes
+MemoryDenyWriteExecute=yes
+RemoveIPC=yes
+SystemCallArchitectures=native
+SystemCallFilter=@system-service
+SystemCallFilter=~@privileged @resources
+RestrictAddressFamilies=AF_INET AF_INET6 AF_UNIX
+# Network: only loopback (Tailscale Funnel) and the tailnet. No LAN, no internet.
+IPAddressDeny=any
+IPAddressAllow=localhost 100.64.0.0/10 fd7a:115c:a1e0::/48
+# Resources: a flood slows the pixel down, not the rest of the RPi.
+MemoryMax=256M
+CPUQuota=25%
+TasksMax=64
+
+[Install]
+WantedBy=multi-user.target
