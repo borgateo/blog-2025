@@ -11,11 +11,11 @@
 
 ## Typography
 
-Current font: **freight-text-pro** (Typekit kit `gvf5gsl`)
+Font: **[Crimson Pro](https://github.com/Fonthausen/CrimsonPro)** (SIL Open Font License), self-hosted in `src/static/fonts/`.
+Variable woff2 files (weights 200-900), normal and italic, `latin` and `latin-ext` subsets, taken from Google Fonts and served from borgateo.com so no request goes to a third party.
+The `@font-face` rules and a Georgia fallback tuned to limit layout shift live in `src/static/css/tailwind.css`.
 
-Candidates to evaluate as replacements:
-- [GFS Didot](https://fonts.google.com/specimen/GFS+Didot) — elegant, close to freight-text-pro proportions
-- [Orelega One](https://fonts.google.com/specimen/Orelega+One) — bolder, more display-oriented
+Until 2026-11 the blog used freight-text-pro from Adobe Fonts (Typekit).
 
 ## Tips
 

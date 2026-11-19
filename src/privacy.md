@@ -27,7 +27,7 @@ If your browser sends **Do Not Track** or **Global Privacy Control**, nothing is
 
 Detailed records are kept for 13 months. After that only daily totals per page remain. Nothing is shared or sold.
 
-Two other services see your request because the site depends on them: [Netlify](https://www.netlify.com/privacy/), which hosts it, and [Adobe Fonts](https://www.adobe.com/privacy/policies/adobe-fonts.html), which serves the typeface.
+Fonts and scripts are served from this site. The only other service that sees your request is [Netlify](https://www.netlify.com/privacy/), which hosts it.
 
 The code is public: [github.com/borgateo/blog-2025](https://github.com/borgateo/blog-2025/tree/main/pixel). IP geolocation by [DB-IP](https://db-ip.com).
 

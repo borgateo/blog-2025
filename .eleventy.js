@@ -38,6 +38,7 @@ module.exports = function (eleventyConfig) {
 
   // Copy Image Folder to /_site
   eleventyConfig.addPassthroughCopy("./src/static/img");
+  eleventyConfig.addPassthroughCopy("./src/static/fonts");
 
   // Copy Doc Folder to /_site
   eleventyConfig.addPassthroughCopy("./src/static/doc");
