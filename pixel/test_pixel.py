@@ -136,8 +136,18 @@ class Record(unittest.TestCase):
     def test_stats_page_renders(self):
         pixel.record({"p": "/"}, Headers({"user-agent": CHROME_MAC}), None)
         page = pixel.stats_html(30)
-        self.assertIn("borgateo.com · visite", page)
-        self.assertIn("<td>/</td>", page)
+        self.assertIn("Visite borgateo.com", page)
+        self.assertIn('<span class="rk-label">/</span>', page)
+        self.assertIn('"n": 1', page)  # today in the chart data
+
+    def test_stats_escape_untrusted_values(self):
+        pixel.record({"p": "/<b>x"}, Headers({"user-agent": CHROME_MAC}), None)  # rejected path
+        with pixel.db() as conn:
+            conn.execute("INSERT INTO hits (ts, day, path, referrer) VALUES (?, ?, '/ok', '<img src=x>')",
+                         (dt.datetime.now(dt.timezone.utc).isoformat(), dt.datetime.now(dt.timezone.utc).date().isoformat()))
+        page = pixel.stats_html(7)
+        self.assertNotIn("<img src=x>", page)
+        self.assertIn("&lt;img src=x&gt;", page)
 
 
 if __name__ == "__main__":

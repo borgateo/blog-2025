@@ -47,7 +47,7 @@ Rows older than 395 days (13 months) are rolled up into `daily_totals` (views pe
 
 ## Stats
 
-`http://100.79.128.60:5010/` (Tailscale only). Query parameters: `days=7|30|90|395`, `io=1` to include my visits. `GET /api/summary` returns the last 7 days as JSON.
+`http://100.79.128.60:5010/` (Tailscale only), linked from the Lab 307 dashboard. Query parameters: `days=7|30|90|395`, `io=1` to include my visits. `GET /api/summary` returns the last 7 days as JSON and `GET /health` returns `{"ok": true}`; both send `Access-Control-Allow-Origin` for the dashboard origin only (`PIXEL_DASHBOARD_ORIGIN`).
 
 ## Security
 
