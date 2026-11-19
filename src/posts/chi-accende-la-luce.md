@@ -7,7 +7,7 @@ tags: featured
 language: it
 ---
 
-Negli ultimi mesi mi sono fatto con un LLM un sacco di strumenti personali: un price tracker, un bookmark manager, qualche dashboard che gira su un Raspberry Pi in casa. Faccio lo sviluppatore di mestiere, quindi sapevo farli anche prima. Solo che prima non li avrei mai fatti, perché per uno strumento che uso solo io non valeva la pena perderci le serate. Adesso basta un pomeriggio.
+Negli ultimi mesi mi sono fatto con un LLM un sacco di strumenti: un price tracker, qualche dashboard che gira su un Raspberry Pi in casa. E adesso sto facendo un'app per fare i preventivi per gli elettricisti. Faccio lo sviluppatore di mestiere, quindi sapevo fare tutto questo anche prima. Solo che prima non avrei mai trovato il tempo, perché ogni progetto voleva dire settimane di serate. Adesso i tool personali li faccio in un pomeriggio.
 
 Qualche settimana fa un'app che uso tutti i giorni ha tolto da un giorno all'altro la funzione che mi serviva. Il mio primo pensiero è stato: vabbè, me la rifaccio io.
 
@@ -81,7 +81,7 @@ E lo vedo anch'io, tutti i giorni. Ogni modello nuovo è più bravo del preceden
 
 Il cambiamento vero, secondo me, è un altro. A febbraio 2026 il co-CEO di Spotify, Gustav Söderström, ha detto durante la presentazione dei risultati che i loro sviluppatori più esperti [non scrivevano una riga di codice da dicembre](https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/). Nello stesso mese Stripe ha raccontato i suoi [Minions](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents): agenti che producono più di 1.300 pull request a settimana senza una riga scritta da un umano. Le persone le rivedono e le approvano, ma prima ognuna passa contro una parte di oltre 3 milioni di test.
 
-C'è chi va ancora più in là. StrongDM ha pubblicato il manifesto della sua 'Software Factory', con due regole: 'Code must not be written by humans' e 'Code must not be reviewed by humans'. Gli esseri umani scrivono le specifiche, preparano gli scenari di test, guardano i punteggi. Il resto lo fanno gli agenti. Qualcuno la chiama *dark factory*, come le fabbriche che lavorano a luci spente perché dentro non c'è nessuno.
+C'è chi va ancora più in là. A febbraio 2026 Justin McCarthy, CTO di StrongDM, ha pubblicato il [manifesto della loro 'Software Factory'](https://factory.strongdm.ai/), con due regole: 'Code must not be written by humans' e 'Code must not be reviewed by humans'. Gli esseri umani scrivono le specifiche e preparano gli scenari di test, gli agenti fanno il resto, e alla fine si misura quanta parte dei risultati soddisfa davvero l'utente. Qualcuno la chiama *dark factory*, come le fabbriche che lavorano a luci spente perché dentro non c'è nessuno.
 
 Non è solo roba da grandi nomi e da comunicati stampa. Negli ultimi mesi ne ho parlato con un po' di programmatori di aziende diverse, anche molto grosse, e parecchi con ruoli alti. Mi hanno detto tutti la stessa cosa: da loro non programma più nessuno. E vale anche per le aziende piccole. Ho sentito team da tre sviluppatori in cui il codice ormai lo scrivono gli agenti, e le persone passano la giornata a spiegare cosa serve e a controllare cosa esce.
 
@@ -211,6 +211,7 @@ La domanda dell'inizio resta aperta, e va bene così. Forse però va riformulata
 - Becker, J., Rush, N. et al. / METR (2025). Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity. <https://arxiv.org/abs/2507.09089>
 - Anthropic Frontier Red Team (5 febbraio 2026). Evaluating and mitigating the growing risk of LLM-discovered 0-days. <https://www.anthropic.com/research/zero-days>
 - Google Project Zero / The Register (5 novembre 2024). Google's Big Sleep AI finds vulnerability in SQLite. <https://www.theregister.com/2024/11/05/google_ai_vulnerability_hunting>
+- McCarthy, J. / StrongDM (6 febbraio 2026). Software Factories And The Agentic Moment. <https://factory.strongdm.ai/>
 - Stanford Law, CodeX (8 febbraio 2026). Built by Agents, Tested by Agents, Trusted by Whom? <https://law.stanford.edu/2026/02/08/built-by-agents-tested-by-agents-trusted-by-whom/>
 - Stripe (febbraio 2026). Minions: Stripe's one-shot, end-to-end coding agents. <https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents>
 - TechCrunch (12 febbraio 2026). Spotify says its best developers haven't written a line of code since December, thanks to AI. <https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/>
