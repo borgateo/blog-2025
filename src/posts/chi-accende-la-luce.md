@@ -9,7 +9,7 @@ coverTitle: Fortaleza - Brasile (Settembre 2026)
 language: it
 ---
 
-Negli ultimi mesi mi sono fatto con un LLM un sacco di strumenti: un price tracker, qualche dashboard che gira su un Raspberry Pi in casa. E adesso sto facendo un’app per fare i preventivi per gli elettricisti. Faccio lo sviluppatore di mestiere, quindi sapevo fare tutto questo anche prima. Solo che prima non avrei mai trovato il tempo, perché ogni progetto voleva dire settimane di serate. Adesso i tool personali li faccio in un pomeriggio.
+Negli ultimi mesi mi sono fatto un sacco di strumenti: un price tracker, qualche dashboard che gira su un Raspberry Pi in casa. E adesso sto facendo un’app per fare i preventivi per gli elettricisti. Faccio lo sviluppatore di mestiere, quindi sapevo fare tutto questo anche prima. Solo che prima non avrei mai trovato il tempo, perché ogni progetto voleva dire settimane di serate. Adesso, con un LLM, i tool personali li faccio in un pomeriggio.
 
 È una sensazione bellissima. È anche quella che mi ha fatto venire un dubbio.
 
@@ -29,7 +29,7 @@ Però non ha senso idealizzarlo. Le barriere erano prima di tutto economiche: un
 
 Blog, forum, poi YouTube, Facebook, Twitter e TikTok hanno portato il costo di pubblicare praticamente a zero. Prima, per avere un pubblico, dovevi entrare in un’organizzazione. Dopo bastava premere ‘pubblica’.
 
-Clay Shirky in [*Here Comes Everybody*](https://www.penguinrandomhouse.com/books/300865/here-comes-everybody-by-clay-shirky/) (2008) l’ha spiegato bene: quando coordinarsi costa quasi niente, gruppi di persone riescono a fare cose che prima richiedevano un’istituzione. Yochai Benkler in [*The Wealth of Networks*](https://www.benkler.org/Benkler_Wealth_Of_Networks.pdf) (2006) l’ha chiamata *commons-based peer production*. Pensate a Wikipedia.
+Clay Shirky in [*Here Comes Everybody*](https://www.penguinrandomhouse.com/books/300615/here-comes-everybody-by-clay-shirky/) (2008) l’ha spiegato bene: quando coordinarsi costa quasi niente, gruppi di persone riescono a fare cose che prima richiedevano un’istituzione. Yochai Benkler in [*The Wealth of Networks*](https://yalebooks.yale.edu/book/9780300125771/the-wealth-of-networks/) (2006) l’ha chiamata *commons-based peer production*. Pensate a Wikipedia.
 
 Le cose buone sono reali: citizen journalism, comunità di nicchia che finalmente hanno una voce, una creator economy enorme. E l’informazione si è spostata davvero. Secondo il [Pew Research Center](https://www.pewresearch.org/journalism/2024/11/18/americas-news-influencers/) (10.658 adulti USA, estate 2024), il 21% degli americani prende regolarmente le notizie da ‘news influencer’, il 37% sotto i 30 anni. Quasi nessuno di loro ha mai messo piede in una redazione.
 
@@ -130,7 +130,7 @@ Aggiornamenti, backup, compatibilità, migrazione dei dati, supporto, il server 
 
 Lo vedo con i miei tool. Farli è stato un pomeriggio. Tenerli in piedi, tra aggiornamenti, API che cambiano e piccole rotture, è un lavoro che non finisce mai, e ogni tanto mi rompe i coglioni.
 
-Il caso [xz Utils](https://en.wikipedia.org/wiki/XZ_Utils_backdoor) (2024) fa vedere dove si arriva anche senza AI: una libreria usata da mezzo mondo Linux, mantenuta di fatto da una persona sola e stanca, in cui un attaccante ha infilato una backdoor dopo anni passati a guadagnarsi la sua fiducia. Nadia Eghbal in *Working in Public* (2020) l’aveva detto chiaro: nell’open source il collo di bottiglia è l’attenzione dei maintainer, il codice si trova. È il paradosso di Simon, applicato al software.
+Il caso [xz Utils](https://en.wikipedia.org/wiki/XZ_Utils_backdoor) (2024) fa vedere dove si arriva anche senza AI: una libreria usata da mezzo mondo Linux, mantenuta di fatto da una persona sola e stanca, in cui un attaccante ha infilato una backdoor dopo anni passati a guadagnarsi la sua fiducia. Nadia Eghbal in [*Working in Public*](https://press.stripe.com/working-in-public) (2020) l’aveva detto chiaro: nell’open source il collo di bottiglia è l’attenzione dei maintainer, il codice si trova. È il paradosso di Simon, applicato al software.
 
 ### Il mercato dei bidoni
 
@@ -162,7 +162,7 @@ Secondo me non si escludono. La cosa più probabile è che convivano a seconda d
 
 ## La tesi, con i piedi di piombo
 
-Quando tutti possono creare, saper creare diventa meno raro. Il valore si sposta su quello che resta difficile: capire cosa è buono, farsi dare fiducia, garantire che funzioni, tenerlo in piedi nel tempo.
+Quando tutti possono creare, saper costruire diventa meno raro. Il valore si sposta su quello che resta difficile: capire cosa è buono, farsi dare fiducia, garantire che funzioni, tenerlo in piedi nel tempo.
 
 - **Social**: dalla scarsità della parola alla scarsità dell’attenzione.
 - **AI e software**: dalla scarsità di chi sa programmare alla possibile scarsità di qualità e fiducia.
@@ -188,12 +188,12 @@ La domanda dell’inizio resta aperta, e va bene così. Forse però va riformula
 ### Libri e saggi
 
 - Akerlof, G. A. (1970). The Market for ‘Lemons’: Quality Uncertainty and the Market Mechanism. *Quarterly Journal of Economics*, 84(3), 488-500. <https://doi.org/10.2307/1879431>
-- Benkler, Y. (2006). *The Wealth of Networks: How Social Production Transforms Markets and Freedom*. Yale University Press. <https://www.benkler.org/Benkler_Wealth_Of_Networks.pdf>
-- Eghbal, N. (2020). *Working in Public: The Making and Maintenance of Open Source Software*. Stripe Press.
+- Benkler, Y. (2006). *The Wealth of Networks: How Social Production Transforms Markets and Freedom*. Yale University Press. <https://yalebooks.yale.edu/book/9780300125771/the-wealth-of-networks/>
+- Eghbal, N. (2020). *Working in Public: The Making and Maintenance of Open Source Software*. Stripe Press. <https://press.stripe.com/working-in-public>
 - Glass, R. L. (2001). Frequently Forgotten Fundamental Facts about Software Engineering. *IEEE Software*, 18(3). <https://doi.org/10.1109/MS.2001.922739>
 - Lehman, M. M. (1980). Programs, Life Cycles, and Laws of Software Evolution. *Proceedings of the IEEE*, 68(9), 1060-1076. <https://doi.org/10.1109/PROC.1980.11805>
 - Raymond, E. S. (1999). *The Cathedral and the Bazaar*. O’Reilly. <http://www.catb.org/~esr/writings/cathedral-bazaar/>
-- Shirky, C. (2008). *Here Comes Everybody: The Power of Organizing Without Organizations*. Penguin Press. <https://www.penguinrandomhouse.com/books/300865/here-comes-everybody-by-clay-shirky/>
+- Shirky, C. (2008). *Here Comes Everybody: The Power of Organizing Without Organizations*. Penguin Press. <https://www.penguinrandomhouse.com/books/300615/here-comes-everybody-by-clay-shirky/>
 - Simon, H. A. (1971). Designing Organizations for an Information-Rich World. In M. Greenberger (a cura di), *Computers, Communications, and the Public Interest* (pp. 37-72). Johns Hopkins Press.
 - Spence, M. (1973). Job Market Signaling. *Quarterly Journal of Economics*, 87(3), 355-374. <https://doi.org/10.2307/1882010>
 
@@ -210,7 +210,7 @@ La domanda dell’inizio resta aperta, e va bene così. Forse però va riformula
 
 - Becker, J., Rush, N. et al. / METR (2025). Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity. <https://arxiv.org/abs/2507.09089>
 - Anthropic Frontier Red Team (5 febbraio 2026). Evaluating and mitigating the growing risk of LLM-discovered 0-days. <https://www.anthropic.com/research/zero-days>
-- Google Project Zero / The Register (5 novembre 2024). Google’s Big Sleep AI finds vulnerability in SQLite. <https://www.theregister.com/2024/11/05/google_ai_vulnerability_hunting>
+- The Register (5 novembre 2024). Google claims AI first after SQLite security bug discovered. <https://www.theregister.com/2024/11/05/google_ai_vulnerability_hunting>
 - McCarthy, J. / StrongDM (6 febbraio 2026). Software Factories And The Agentic Moment. <https://factory.strongdm.ai/>
 - Stanford Law, CodeX (8 febbraio 2026). Built by Agents, Tested by Agents, Trusted by Whom? <https://law.stanford.edu/2026/02/08/built-by-agents-tested-by-agents-trusted-by-whom/>
 - Stripe (febbraio 2026). Minions: Stripe’s one-shot, end-to-end coding agents. <https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents>
@@ -229,4 +229,4 @@ La domanda dell’inizio resta aperta, e va bene così. Forse però va riformula
 
 - Cox, R. (2024). Timeline of the xz open source attack. <https://research.swtch.com/xz-timeline>
 - NVD. CVE-2025-48757 (Lovable, policy RLS mancanti). <https://nvd.nist.gov/vuln/detail/CVE-2025-48757>
-- Fortune (23 luglio 2025). AI coding tool Replit wiped database, called it a ‘catastrophic failure’. <https://fortune.com/2025/07/23/ai-coding-tool-replit-wiped-database-called-it-a-catastrophic-failure/>
+- Fortune (23 luglio 2025). AI-powered coding tool wiped out a software company’s database in ‘catastrophic failure’. <https://fortune.com/2025/07/23/ai-coding-tool-replit-wiped-database-called-it-a-catastrophic-failure/>
