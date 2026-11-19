@@ -58,6 +58,7 @@ This is the only service of the Raspberry Pi reachable from the internet, so it 
 - **Filesystem**: code in `/opt/blog-pixel` owned by root and read-only; `ProtectSystem=strict`, `ProtectHome=yes`; the only writable path is the data dir (mode 700).
 - **No privileges**: `NoNewPrivileges`, empty capability set, `SystemCallFilter=@system-service`, plus the usual `Protect*`/`Restrict*` options.
 - **Network**: `IPAddressDeny=any`, allowed only loopback and the tailnet (`100.64.0.0/10`, `fd7a:115c:a1e0::/48`). No LAN, no internet. The maintenance unit can reach the internet to download DB-IP.
+- **Netlify only**: hits without Netlify's `x-nf-site-id` for this site are dropped, so calling the Funnel URL directly (it is listed in public certificate logs) counts nothing.
 - **Abuse**: 30 hits/min per truncated IP, 300/min in total, database capped at 512 MB, 10 s socket timeout, `MemoryMax=256M`, `CPUQuota=25%`, `TasksMax=64`.
 - **Stats page**: bound to the Tailscale IP only, every value escaped with `html.escape`.
 

@@ -40,6 +40,8 @@ RETENTION_DAYS = int(os.environ.get("PIXEL_RETENTION_DAYS", "395"))  # 13 months
 RATE_PER_NET = int(os.environ.get("PIXEL_RATE_PER_NET", "30"))     # hits per minute per truncated IP
 RATE_GLOBAL = int(os.environ.get("PIXEL_RATE_GLOBAL", "300"))      # hits per minute in total
 MAX_DB_BYTES = int(os.environ.get("PIXEL_MAX_DB_MB", "512")) * 1024 * 1024
+# Only count hits that came through the Netlify proxy (direct calls to the Funnel URL are dropped).
+NETLIFY_SITE_ID = os.environ.get("PIXEL_NETLIFY_SITE_ID", "")
 
 GIF = bytes.fromhex("47494638396101000100800000000000ffffff21f90401000000002c00000000010001000002024401003b")
 
@@ -210,6 +212,8 @@ def client_ip(headers) -> str | None:
 def record(params: dict[str, str], headers, geo_db: geo.GeoDB | None) -> bool:
     path = clean_path(params.get("p"))
     if not path:
+        return False
+    if NETLIFY_SITE_ID and headers.get("x-nf-site-id") != NETLIFY_SITE_ID:
         return False
     if headers.get("dnt") == "1" or headers.get("sec-gpc") == "1":
         return False

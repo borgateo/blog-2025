@@ -111,6 +111,14 @@ class Record(unittest.TestCase):
         self.assertFalse(pixel.record({"p": "/"}, Headers({"sec-gpc": "1"}), None))
         self.assertEqual(self.rows(), [])
 
+    def test_only_netlify_proxied_hits_when_site_id_set(self):
+        pixel.NETLIFY_SITE_ID = "site-123"
+        try:
+            self.assertFalse(pixel.record({"p": "/"}, Headers({"user-agent": CHROME_MAC}), None))
+            self.assertTrue(pixel.record({"p": "/"}, Headers({"user-agent": CHROME_MAC, "x-nf-site-id": "site-123"}), None))
+        finally:
+            pixel.NETLIFY_SITE_ID = ""
+
     def test_invalid_path_ignored(self):
         self.assertFalse(pixel.record({"p": "javascript:alert(1)"}, Headers({}), None))
 

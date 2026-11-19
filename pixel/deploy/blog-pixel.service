@@ -14,6 +14,7 @@ Environment=PIXEL_HOST=127.0.0.1
 Environment=PIXEL_PORT=5009
 Environment=STATS_HOST=100.79.128.60
 Environment=STATS_PORT=5010
+Environment=PIXEL_NETLIFY_SITE_ID=10a65eed-1968-442f-9e01-91dcebe3fa6d
 Environment=PYTHONUNBUFFERED=1
 Environment=PYTHONDONTWRITEBYTECODE=1
 ExecStart=/usr/bin/python3 -I /opt/blog-pixel/pixel.py serve
