@@ -54,7 +54,7 @@
 
 body {
     position: relative;
-    font-weight: 300;          /* Crimson Pro is variable: lighter body text */
+    font-weight: var(--body-weight, 250);   /* Crimson Pro is variable: light body text */
     background-color: #1f2430; /* Ayu Mirage background */
     color: #cbccc6;            /* Light warm gray text */
 }
@@ -82,7 +82,7 @@ body::after {
 }
 
 h1 {
-    @apply text-4xl tracking-tighter mb-3 text-center lg:text-7xl leading-tight;
+    @apply text-4xl tracking-tight mb-3 text-center lg:text-7xl leading-tight;
 }
 
 h3 {
@@ -97,6 +97,33 @@ b, strong {
 /* Every heading is bold here, so no <strong>/** or font-bold class is needed on them */
 h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
+}
+
+/*
+  Reading rhythm for posts (sizes in em, so they follow prose-xl / prose-2xl).
+  Crimson Pro has a small x-height (~0.42): 1.5 keeps lines together better than 1.67.
+  Headings follow a golden-ratio scale (h2 = 1.618, h3 = 1.25) and sit closer
+  to the paragraph they introduce than to the one before.
+  `article[class]` outranks the typography plugin's `.prose-* :where(h2)` rules.
+*/
+article[class] {
+    font-variant-numeric: oldstyle-nums proportional-nums;
+}
+article[class] p,
+article[class] li {
+    line-height: 1.5;
+}
+article[class] h2 {
+    font-size: 1.618em;
+    line-height: 1.15;
+    margin-top: 1.7em;
+    margin-bottom: 0.45em;
+}
+article[class] h3 {
+    font-size: 1.25em;
+    line-height: 1.25;
+    margin-top: 1.6em;
+    margin-bottom: 0.4em;
 }
 
 /* Syntax Highlighting */

@@ -37,6 +37,9 @@ module.exports = function (eleventyConfig) {
   });
 
   // Copy Image Folder to /_site
+  // Smart punctuation in markdown: ' -> ’, "…" -> “…”, -- -> –
+  eleventyConfig.amendLibrary("md", (md) => md.set({ typographer: true }));
+
   eleventyConfig.addPassthroughCopy("./src/static/img");
   eleventyConfig.addPassthroughCopy("./src/static/fonts");
 
