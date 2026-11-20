@@ -14,7 +14,7 @@ tags:
 
 For the past few months I've been using AI to fix things around the house that the professionals couldn't (or wouldn't) figure out. Two examples from real life.
 
-## **The pool that wouldn't come clean**
+## The pool that wouldn't come clean
 
 The guy who maintains my pool has a fixed routine: throw in some aluminum sulfate, wait for the algae to clump and sink to the bottom, vacuum it all up the next day. It works. When I asked him why he does it, he said: “Because everyone does it”.
 
@@ -37,7 +37,7 @@ I explained it to the pool guy afterward. He was skeptical at first. We went thr
 
 <div align="center">❉</div>
 
-## **The circuit breaker that didn't trip**
+## The circuit breaker that didn't trip
 
 I've loved taking electronics apart since I was a kid, and I still like tinkering with electrical stuff. One afternoon I trusted my multimeter a bit too much while working on a 110V circuit, got a shock, and the RCD (the safety device that's supposed to cut power immediately) didn't trip.
 
@@ -57,7 +57,7 @@ So fixing the ground first wasn't just about the RCD: it was the prerequisite fo
 
 <div align="center">❉</div>
 
-## **The part that actually surprised me**
+## The part that actually surprised me
 
 I talked to four electricians before finding one I trusted. Some showed up without a multimeter. One sent a quote ten times higher than what I ended up paying, with no explanation of what the problem actually was. Another sent a very detailed cost breakdown — looked professional at first glance. I fed it to an LLM and it flagged it immediately: the technical terms were unrelated to the actual problem, strung together to sound credible to someone who didn't know better.
 
@@ -77,7 +77,7 @@ The ones who actually do know more play a different game: they position themselv
 
 <div align="center">❉</div>
 
-## **How I actually used it**
+## How I actually used it
 
 Not as a single question. I built context incrementally: describe the situation, get a response, take notes, feed the new information back in with the next question. Each round got more specific. I used multiple models in parallel and compared the answers. When they converged, I trusted them more. When they diverged, I dug deeper.
 

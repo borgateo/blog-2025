@@ -54,6 +54,7 @@
 
 body {
     position: relative;
+    font-weight: 300;          /* Crimson Pro is variable: lighter body text */
     background-color: #1f2430; /* Ayu Mirage background */
     color: #cbccc6;            /* Light warm gray text */
 }
@@ -85,12 +86,17 @@ h1 {
 }
 
 h3 {
-    @apply text-2xl font-bold mb-3;
+    @apply text-2xl mb-3;
 }
 
-/* Section headings inside posts are always bold */
-article h2 {
-    @apply font-bold;
+/* With a 300 body, "bolder" would only reach 400: keep bold text really bold */
+b, strong {
+    font-weight: 700;
+}
+
+/* Every heading is bold here, so no <strong>/** or font-bold class is needed on them */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
 }
 
 /* Syntax Highlighting */

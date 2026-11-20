@@ -17,7 +17,7 @@ I spent 26 years in a small town between Padua and Venice. The routine was textb
 
 No complaints. _I felt lucky. Honestly._
 
-## **Money 💶**
+## Money 💶
 
 I jumped on the work train at 15. I wanted **independence**.
 
@@ -40,7 +40,7 @@ They promise they’ll shorten the apprenticeship. _Maybe_.
 
 I knew I was green. I wasn’t expecting money showers. And hey, none of my uni friends were cracking €1k. Real **“[1000 Euros Generation]”** energy.
 
-## **A Decent Paycheck Can Wait 💔**
+## A Decent Paycheck Can Wait 💔
 
 Two years later, with “seniority,” I’m at **€1,049**. The “shortened” apprenticeship? Magically “maturing” till the end. They “can’t afford” a full salary but will gladly pocket incentives. **Win-win**—just not for me.
 
@@ -58,7 +58,7 @@ I’m a squirrel in a maze. Then a spark: _“What if I look outside Italy?”_
 
 The mythical land where devs get paid. 🤑
 
-## **The Second Job 🥈**
+## The Second Job 🥈
 
 Enter Luca, a compatriot with a web agency in Lithuania. We collaborate nights and weekends.
 
@@ -68,7 +68,7 @@ Small issue: my English is **tragic**. I can barely stitch a sentence.
 
 Solution: get good. **Fast**.
 
-## **“Du iú spich inglisc?” 🥴**
+## “Du iú spich inglisc?” 🥴
 
 Years of school and I can’t form a thought. _Classic._
 
@@ -82,7 +82,7 @@ I dust off high school books, raid my girlfriend’s uni materials, and find my 
   <figcaption class="mt-1 text-sm text-gray-400 italic">Graffiti in Naples: “the future is unwritten” (July 2012)</figcaption>
 </figure>
 
-## **Something Unexpected Happens ✨**
+## Something Unexpected Happens ✨
 
 Chatting with my friend Stefano. There’s a startup in Amsterdam looking for a front-end dev.
 
@@ -145,7 +145,7 @@ My first time getting the boot. Well—nudged, so they wouldn’t pay severance.
 
 > **The world has wolves.** Noted.
 
-## **Panic Mode: Activated! 😱**
+## Panic Mode: Activated! 😱
 
 Nine months in: **unemployed**, far from home, with toddler-level English.
 
@@ -164,7 +164,7 @@ Before my termination even ends, a **new offer** lands. Not even that hard. **Mo
 The rest is **history in progress**.
 <!-- [Part Two →](/posts/happiness-part-two) -->
 
-## **TL;DR ⚡️**
+## TL;DR ⚡️
 
 Before you complain about your job, **breathe**.
 

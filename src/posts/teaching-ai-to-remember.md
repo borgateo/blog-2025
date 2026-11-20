@@ -19,11 +19,11 @@ No context about the project I'm working on. No memory of last week's decisions.
 
 For one-off questions that's totally fine. But for side projects that stretch over weeks or months, it gets old fast. I was spending the first ten minutes of every session re-explaining myself, and that's before actually getting anything done.
 
-## **The obvious fix**
+## The obvious fix
 
 Paste context manually. "Here's the project. Here's what we've done so far. Here's what I want today." It works! Once. But then you're maintaining a growing text file somewhere, updating it by hand, hoping it's current. It really doesn't scale.
 
-## **The actual fix: Obsidian as a memory layer**
+## The actual fix: Obsidian as a memory layer
 
 I use [Obsidian](https://obsidian.md) as my personal knowledge base. Markdown files, local-first, no proprietary format. I organize it with the [PARA method](https://fortelabs.com/blog/para/) (Projects, Areas, Resources, Archive), which gives everything a clear home.
 
@@ -35,7 +35,7 @@ At the end of 2025 I started using it as the persistent memory layer between me 
 
 **Session logs.** At the end of each working session I save a short structured note: what we did, decisions made, open items, next steps. The next session starts by reading it. Zero re-explaining.
 
-## **The `rules/` directory**
+## The `rules/` directory
 
 Claude Code (the AI I use for coding) reads a `~/.claude/rules/` directory at the start of every session. I keep a few files there:
 
@@ -45,7 +45,7 @@ Claude Code (the AI I use for coding) reads a `~/.claude/rules/` directory at th
 
 These load automatically. The AI knows my preferences before I type a single word. It's one of those tiny things that saves a surprising amount of friction over time.
 
-## **Skills: teaching the AI new tricks**
+## Skills: teaching the AI new tricks
 
 Beyond static preferences, you can define reusable workflows as skills. Think of them as slash commands that trigger a specific sequence of actions.
 
@@ -53,7 +53,7 @@ I have a `/dismiss` skill that saves a structured session log at the end of ever
 
 Once written, skills behave like keyboard shortcuts for complex workflows. You stop explaining the procedure each time and just invoke it.
 
-## **Agents in parallel**
+## Agents in parallel
 
 This one surprised me the most.
 
@@ -63,7 +63,7 @@ I use this mostly for pre-PR reviews now: one agent checks code style and projec
 
 It's a meaningful shift in how you can think about working with AI. Less sequential, more like delegating to a small team.
 
-## **The compounding effect**
+## The compounding effect
 
 This is the part I didn't anticipate when I started.
 
@@ -73,11 +73,11 @@ After a few months, the difference between "working with AI from scratch" and "w
 
 Dan Shipper's [Compound Engineering](https://every.to/guides/compound-engineering) framework describes this as the Plan -> Work -> Review -> Compound loop. The Compound step is the one most people skip: extract the insight from what you just did and feed it back into the system so the next session starts further ahead. Obsidian is where that compounding happens for me.
 
-## **One thing worth being explicit about**
+## One thing worth being explicit about
 
 This system stores personal workflow patterns, side project context, and things I've learned. It's not a place for proprietary code, team data, or anything that belongs to an employer. That boundary is worth drawing deliberately, and early.
 
-## **How to start**
+## How to start
 
 1. Install Obsidian. Start with PARA: four folders (Projects, Areas, Resources, Archive).
 2. Create a folder for each active side project. Keep a running note there: decisions, open questions, what's next.

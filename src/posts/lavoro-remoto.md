@@ -9,7 +9,7 @@ coverTitle: postazione di lavoro a Gramado - Brasile (Ottobre 2017)
 language: it
 ---
 
-## **Intro 👋**
+## Intro 👋
 
 Questa sezione del mio blog è dedicata al __lavoro in remoto come dipendente__ di un’azienda.
 
@@ -21,7 +21,7 @@ Ho iniziato nel 2015 e devo ammettere che **non è sempre stato facile**.
 
 Potrà sembrarti strano, ma mi ha stressato molto di più rispetto al classico lavoro in ufficio, sia per colpa mia che delle aziende per le quali ho lavorato.
 
-## **Non è tutto oro ✨**
+## Non è tutto oro ✨
 
 Gli aspetti positivi del lavoro in remoto sono tanti:
 
@@ -54,7 +54,7 @@ Ma restiamo con i piedi per terra.
 La cosa importante è saper _gestire al meglio la tua salute mentale_ e di conseguenza _non rendere la vita di chi ti sta attorno un inferno_.
 Facile no?! 😅
 
-## **Un metodo di lavoro moderno 🆕**
+## Un metodo di lavoro moderno 🆕
 
 Il telelavoro è ancora molto immaturo.
 
@@ -64,7 +64,7 @@ Ma questa corsa nello stare a casa (🤯) ha anche dimostrato quanto difficile s
 
 Siamo ancora lontani dal creare, ma soprattutto mantenere, un posto di lavoro in remoto _sano_ e _motivante_.
 
-### **Sia dal lato del capo 👔**
+### Sia dal lato del capo 👔
 
 È uno sforzo immenso per il datore di lavoro che deve gestire un’organizzazione e una cultura aziendale studiate per il remoto. 
 Se non lo fa, l’azienda cade come un castello di carte.
@@ -76,14 +76,14 @@ Le iterazioni umane tra colleghi sono ridotte al minimo. Questo spegne i legami 
 Di conseguenza ci sono cali di produttività, dispetti e politiche aziendali controverse per arginare i danni.
 In altre parole, un ambiente di lavoro dimmerda.
 
-### **Sia dal lato nostro ✊🏼**
+### Sia dal lato nostro ✊🏼
 
 Lo sforzo è grande anche per noi dipendenti. Occorre imporsi dei paletti molto rigidi.
 Il rischio è di cadere nel buco nero dell’esaurimento nervoso, anche conosciuto come burnout.
 Una bestia che ho dovuto affrontare anch’io (sto scrivendo un articolo in merito).
 La mente e, di conseguenza il corpo, si ribellanno alla situazione e non ti permettono più di continuare a lavorare in quel modo.
 
-## **Impegnamoci a migliorare 💪🏼**
+## Impegnamoci a migliorare 💪🏼
 
 Adoro lavorare in remoto. Mi sta dando la possibilità di vivere in una Paese in via di sviluppo, con lo stipendio di un Paese sviluppato. 🎰
 
